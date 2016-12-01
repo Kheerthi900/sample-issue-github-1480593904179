@@ -1,8 +1,8 @@
 applications:
-- path: target/JavaHelloWorldApp.war
+- path: target/JavaHelloWorldApp1.war
   memory: 512M
   instances: 1
-  domain: mybluemix.net
+  domain: mybluemix123.net
   name: sample-issue-github
   host: sample-issue-github
   disk_quota: 1024M
